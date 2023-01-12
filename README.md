@@ -18,6 +18,8 @@
 </div>
 
 ---
+### :man_technologist: Jeedie JideX Activities:
+
 <a href=#><img src="contributions.svg"></a>
 ---
 ### :man_technologist: About Me :
